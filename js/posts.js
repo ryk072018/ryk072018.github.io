@@ -1,1 +1,1 @@
-[{"title":"gyt","date":"2018.10.05","uri":"2018/10/05/gyt/","excerpt":""},{"title":"Hello World","date":"2018.10.05","uri":"2018/10/05/hello-world/","excerpt":""},{"title":"thinking","date":"2018.10.06","uri":"2018/10/06/thinking/","excerpt":""}]
+[{"title":"Hello World","date":"2018.10.05","uri":"2018/10/05/hello-world/","excerpt":""},{"title":"把时间当做朋友","date":"2018.10.08","uri":"2018/10/08/把时间当做朋友/","excerpt":""},{"title":"thinking","date":"2018.10.06","uri":"2018/10/06/thinking/","excerpt":""},{"title":"gyt","date":"2018.10.05","uri":"2018/10/05/gyt/","excerpt":""}]
